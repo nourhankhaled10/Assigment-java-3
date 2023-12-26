@@ -1,0 +1,12 @@
+body{
+    background-color: #ECF4D6 ;
+}
+h1{
+    font-family: 'Sevillana', cursive;
+    font-size: 75px;
+}
+.line1{
+width: 100%;
+height: 5px;
+background-color: #9AD0C2;
+}
